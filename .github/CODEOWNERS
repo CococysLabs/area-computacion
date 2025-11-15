@@ -1,0 +1,24 @@
+# CODEOWNERS para area-computacion
+# Estos usuarios deben aprobar TODOS los cambios antes de merge
+
+# Propietario principal - Debe aprobar TODO
+* @RivaldoTJ
+
+# Área de Computación - Cursos específicos
+/281-sistemas-operativos-1/ @RivaldoTJ
+/285-sistemas-operativos-2/ @RivaldoTJ
+/777-organizacion-lenguajes-compiladores-1/ @RivaldoTJ
+/778-arquitectura-computadoras-ensambladores-1/ @RivaldoTJ
+/779-arquitectura-computadoras-ensambladores-2/ @RivaldoTJ
+/781-organizacion-lenguajes-compiladores-2/ @RivaldoTJ
+/796-lenguajes-formales-programacion/ @RivaldoTJ
+/964-organizacion-computacional/ @RivaldoTJ
+/970-redes-computadoras-1/ @RivaldoTJ
+/972-inteligencia-artificial-1/ @RivaldoTJ
+/975-redes-computadoras-2/ @RivaldoTJ
+
+# Archivos críticos del repositorio
+/.github/ @RivaldoTJ
+/.gitignore @RivaldoTJ
+/README.md @RivaldoTJ
+/CONTRIBUTING.md @RivaldoTJ
